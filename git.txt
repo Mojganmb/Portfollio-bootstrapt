@@ -1,0 +1,25 @@
+git init
+
+git add .
+git commit -m ""
+
+git remote ...
+git branch 
+git push 
+
+
+
+
+git  add .
+git commit -m
+git push
+
+
+git clone
+git fork
+
+git status
+git log 
+
+
+
